@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Polarbears</title>
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+  <body>
+    <div class="landingpage">
+        <div class="header">
+      <img src="polarbear.png" alt="logo">
+    </div>
+    <div class="title1">
+      <h1>Where will he live in 5 years?</h1>
+    </div>
+<div class="video">
+  <video src="videofile.ogg" autoplay poster="posterimage.jpg">
+
+  </video>
+</div>
+<div class="informationsbokse">
+  <div class="regnskov">
+    <h5>The Rainforest</h5>
+  </div>
+  <div class="vandstandstiger">
+    <h5>Water rising</h5>
+  </div>
+  <div class="olieihavet">
+    <h5>Oil in the sea</h5>
+  </div>
+
+</div>
+    </div>
+  </body>
+</html>
